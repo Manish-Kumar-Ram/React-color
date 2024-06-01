@@ -1,6 +1,6 @@
 const color = [
     {
-      background: '#ff6633',
+      background: '#ff6663',
       colorname: 'PINK',
       colorCode:'#ff6633'
     },
